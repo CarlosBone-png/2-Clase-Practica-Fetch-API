@@ -1,0 +1,13 @@
+{
+    "comentarios":[
+        {"id": "LBJ6-23-4", "nombre": "Barra", "plazo": "1 mes", "anualidad": "9.99$ al mes"},
+        {"id": "MJ23-6", "nombre": "Hincha", "plazo": "3 meses", "anualidad": "8.50$ al mes"},
+        {"id": "RP3-BJ1", "nombre": "Rioplatense", "plazo": "6 meses", "anualidad": "7.99$ al mes"},
+        {"id": "BR1-7", "nombre": "Socio", "plazo": "12 meses", "anualidad": "6.50$ al mes"},
+        {"id": "RM12-0JN", "nombre": "Socio mayor", "plazo": "24 meses", "anualidad": "6.00$ al mes"}
+    ],
+    "productos":[
+        {"id": 1, "dspProducto": "Mi Producto", "descripcion": "Alguna descripcion corta"},
+        {"id": 2, "dspProducto": "Segundo Producto", "descripcion": "Alguna descripcion corta producto 2"}
+    ]
+}

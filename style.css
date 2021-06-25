@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-image: url("datos/img/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    text-shadow: 2px 2px rgb(253, 47, 47);
+    font-family: fantasy;
+}
+h2{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 40px;
+    font-size: 20pt;
+}
+table {
+    text-align: left;
+    margin-top: 100px;
+}
+
+
